@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sg_geometry">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/company/sg_geometry.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/company/sg_geometry.jar!/" />
+    </SOURCES>
+  </library>
+</component>
